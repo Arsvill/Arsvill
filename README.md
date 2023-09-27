@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there Arzvill 👋
 
-<!--
-**Arsvill/Arsvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+안녕하세요. 연세대학교 미래캠퍼스 생명과학학부를 재학중인 최준수입니다.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
